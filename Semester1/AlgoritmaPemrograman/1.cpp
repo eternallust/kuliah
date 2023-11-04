@@ -1,3 +1,4 @@
+// Tugas Algoritma Pemrograman Rizky
 #include <iostream>
 #include <string>
 
